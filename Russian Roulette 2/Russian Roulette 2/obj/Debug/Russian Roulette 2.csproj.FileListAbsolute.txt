@@ -1,0 +1,94 @@
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe.config
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.pdb
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csprojResolveAssemblyReference.cache
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form1.resources
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Properties.Resources.resources
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.GenerateResource.Cache
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.exe
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.pdb
+c:\users\silverdragon\documents\visual studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form2.resources
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.ResolveComReference.cache
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Instructions.resources
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Resources.Resource1.resources
+C:\Users\SilverDragon\Documents\Visual Studio 2017\Projects\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.CoreCompileInputs.cache
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe.config
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csprojResolveAssemblyReference.cache
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.ResolveComReference.cache
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form1.resources
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form2.resources
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Instructions.resources
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Properties.Resources.resources
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Resources.Resource1.resources
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.GenerateResource.Cache
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.CoreCompileInputs.cache
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\Russian\4\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe.config
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csprojResolveAssemblyReference.cache
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.ResolveComReference.cache
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form1.resources
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form2.resources
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Instructions.resources
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Properties.Resources.resources
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Resources.Resource1.resources
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.GenerateResource.Cache
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.CoreCompileInputs.cache
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\1\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csprojResolveAssemblyReference.cache
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.ResolveComReference.cache
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form1.resources
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Instructions.resources
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Properties.Resources.resources
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Resources.Resource1.resources
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.GenerateResource.Cache
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.CoreCompileInputs.cache
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe.config
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe.config
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csprojResolveAssemblyReference.cache
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.ResolveComReference.cache
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form1.resources
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Form2.resources
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Instructions.resources
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Properties.Resources.resources
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.Resources.Resource1.resources
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.GenerateResource.Cache
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.csproj.CoreCompileInputs.cache
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.exe
+C:\Users\SilverDragon\Desktop\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.pdb
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.exe.manifest
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\bin\Debug\Russian Roulette 2.application
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.exe.manifest
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian Roulette 2.application
+C:\Users\SilverDragon\Desktop\WORKING\Russian Roulette 2\Russian Roulette 2\obj\Debug\Russian_Roulette_2.GamePage.resources
