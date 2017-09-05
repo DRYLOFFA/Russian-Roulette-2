@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Russian Roulette 2.exe" size="38029320">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Russian Roulette 2.exe" size="38481928">
       <assemblyIdentity name="Russian Roulette 2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lYzRVRp9NgAqOM9uOeFT0Ur2qvZHdl+u8vXdVKM9t5U=</dsig:DigestValue>
+        <dsig:DigestValue>cyC1irCeOyNVnCn661VIkKZsgiVhh/fKLE4xW9obrkc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
